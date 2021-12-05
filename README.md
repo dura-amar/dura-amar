@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Spring Framework.
+- 📫 How to reach me: Twitter- du_ra_ad, Facebook- du.ra.ad0
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm confused.
