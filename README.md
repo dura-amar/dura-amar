@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning Spring Framework.
-- 📫 How to reach me: Twitter- du_ra_ad, Facebook- du.ra.ad0
+- 📫 How to reach me: Amar Dura (@du_ra_ad) / Twitter
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm confused.
+
+<img src="https://github-readme-stats.vercel.app/api?username=dura-amar"/>
