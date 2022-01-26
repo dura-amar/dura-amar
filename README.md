@@ -9,10 +9,7 @@
 - 😄 Pronouns: He/His</br>
 - ⚡ Fun fact: I'm confused.</br>
   </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dura-amar&show_icons=true&locale=en&layout=compact" alt="dura-amar" /></p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dura-amar" alt="dura-amar Github Stats"/></p>
