@@ -5,7 +5,9 @@
 <h3 align="center">Student | Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dura-amar&label=Profile%20views&color=0e75b6&style=flat" alt="dura-amar" /> </p>
 <p>
-  - 🌱 I’m currently learning Spring Framework.</br>
+ <!-- -
+- 🌱 I’m currently learning Spring Framework.</br>
+-->
 - 😄 Pronouns: He/His</br>
 - ⚡ Fun fact: I'm confused.</br>
   </p>
