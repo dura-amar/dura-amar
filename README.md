@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I'm confused.</br>
   </p>
   
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dura-amar&show_icons=true&locale=en&layout=compact" alt="dura-amar" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dura-amar" alt="dura-amar Github Stats"/></p>
+-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dura-amar" alt="dura-amar Github Stats"/></p>
